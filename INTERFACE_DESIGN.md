@@ -1,4 +1,4 @@
-# Interface Design for Fn Functions Terminal Application
+# Interface Design for Functions Terminal Application
 
 ## Main Interface and Menu Structure
 
