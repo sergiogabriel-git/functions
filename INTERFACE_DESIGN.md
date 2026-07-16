@@ -3,7 +3,7 @@
 ## Main Interface and Menu Structure
 
 ### Main Page UI Suggestions
-- **Header:** Application title with logo.
+- **Header:** Top left bar 30px.
 - **Navigation Bar:** Quick access to different function groups.
 - **Main Area:** Display the currently selected function or information.
 - **Footer:** Version information and contact support details.
@@ -36,7 +36,3 @@
 ### Diagram of Interface Structure
 - Use flowchart elements to show navigation between various functionalities.
 - Include the relationship and hierarchy of menu items.
-
----
-
-This document outlines the proposed structure for the terminal application's user interface, ensuring a user-friendly experience and easy access to functionalities.
