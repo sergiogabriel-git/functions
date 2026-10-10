@@ -1,5 +1,3 @@
-]# Interface Design for Internal Operations of Functions Terminal Applications
-
 ## Main Interface and Menu Structure
 
 ### Main Page UI Suggestions
