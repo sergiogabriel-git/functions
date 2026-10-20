@@ -1,0 +1,3 @@
+adaptabilidade ao ambiente de console fmcon, kmcon, compatibilidade unicode, estabilidade e execução contínua em ambiente de produção, ffenreciamento via arquivo de configuração e utilização leve sem gargalos ou glitchs. 
+
+utilização de funções pré-definidas via arquivo de configuração padrão, menu ajuda via manual usr/doc (...) interpretador de linha de comando, editor de texto, navegador web texto, server/client IRC, editor de arquivos de configuração, agendador de tarefa, 
