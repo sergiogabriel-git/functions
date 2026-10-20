@@ -1,0 +1,13 @@
+# Base values from ANP reports for Salvador in October 2026
+gas_price = 6.69
+etanol_price = 4.61
+
+liters = list(range(5, 51, 5))
+
+# Generating rows
+print(f"{'Litros':<8} | {'Gasolina (R$)':<15} | {'Etanol (R$)':<15}")
+print("-" * 44)
+for l in liters:
+    g_cost = l * gas_price
+    e_cost = l * etanol_price
+    print(f"{l:<8} | R$ {g_cost:<11.2f} | R$ {e_cost:<11.2f}")
